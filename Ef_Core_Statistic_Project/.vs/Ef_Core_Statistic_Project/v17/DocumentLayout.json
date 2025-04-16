@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C467C2E-44C5-4B8E-A76A-1F385360BB29}|Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project.csproj|c:\\users\\alima\\desktop\\projeler_yeni\\ef_core_statistic_project\\ef_core_statistic_project\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C467C2E-44C5-4B8E-A76A-1F385360BB29}|Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project.csproj|solutionrelative:ef_core_statistic_project\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C467C2E-44C5-4B8E-A76A-1F385360BB29}|Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project.csproj|C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\ef_core_statistic_project\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C467C2E-44C5-4B8E-A76A-1F385360BB29}|Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project.csproj|solutionrelative:ef_core_statistic_project\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C467C2E-44C5-4B8E-A76A-1F385360BB29}|Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project.csproj|C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\ef_core_statistic_project\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C467C2E-44C5-4B8E-A76A-1F385360BB29}|Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project.csproj|solutionrelative:ef_core_statistic_project\\statistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C467C2E-44C5-4B8E-A76A-1F385360BB29}|Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project.csproj|C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\ef_core_statistic_project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C467C2E-44C5-4B8E-A76A-1F385360BB29}|Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project.csproj|solutionrelative:ef_core_statistic_project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C467C2E-44C5-4B8E-A76A-1F385360BB29}|Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project.csproj|C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\ef_core_statistic_project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C467C2E-44C5-4B8E-A76A-1F385360BB29}|Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project.csproj|solutionrelative:ef_core_statistic_project\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C467C2E-44C5-4B8E-A76A-1F385360BB29}|Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project.csproj|C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\ef_core_statistic_project\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C467C2E-44C5-4B8E-A76A-1F385360BB29}|Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project.csproj|solutionrelative:ef_core_statistic_project\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C467C2E-44C5-4B8E-A76A-1F385360BB29}|Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project.csproj|C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\ef_core_statistic_project\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C467C2E-44C5-4B8E-A76A-1F385360BB29}|Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project.csproj|solutionrelative:ef_core_statistic_project\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 352,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 136,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project\\Product.cs",
+              "RelativeDocumentMoniker": "Ef_Core_Statistic_Project\\Product.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project\\Product.cs",
+              "RelativeToolTip": "Ef_Core_Statistic_Project\\Product.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAIwFsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:30:07.253Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Statistic.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project\\Statistic.cs",
+              "RelativeDocumentMoniker": "Ef_Core_Statistic_Project\\Statistic.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project\\Statistic.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ef_Core_Statistic_Project\\Statistic.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T06:09:41.577Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project\\Menu.cs",
+              "RelativeDocumentMoniker": "Ef_Core_Statistic_Project\\Menu.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project\\Menu.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ef_Core_Statistic_Project\\Menu.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T19:19:33.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Statistic.cs",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project\\Statistic.cs",
+              "RelativeDocumentMoniker": "Ef_Core_Statistic_Project\\Statistic.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project\\Statistic.cs",
+              "RelativeToolTip": "Ef_Core_Statistic_Project\\Statistic.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:32:27.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project\\Menu.cs",
+              "RelativeDocumentMoniker": "Ef_Core_Statistic_Project\\Menu.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project\\Menu.cs",
+              "RelativeToolTip": "Ef_Core_Statistic_Project\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:31:07.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project\\Customer.cs",
+              "RelativeDocumentMoniker": "Ef_Core_Statistic_Project\\Customer.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project\\Customer.cs",
+              "RelativeToolTip": "Ef_Core_Statistic_Project\\Customer.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwG4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:01:19.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project\\Product.cs",
+              "RelativeDocumentMoniker": "Ef_Core_Statistic_Project\\Product.cs",
+              "ToolTip": "C:\\Users\\alima\\Desktop\\projeler_yeni\\Ef_Core_Statistic_Project\\Ef_Core_Statistic_Project\\Product.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Ef_Core_Statistic_Project\\Product.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:29:35.26Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 28,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
